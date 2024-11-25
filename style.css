@@ -1,0 +1,12 @@
+body {
+   background-image: url('Sit2.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+
+}
+
+img {
+    padding-bottom: 50px;
+    margin: 25px;
+}
+
